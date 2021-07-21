@@ -205,7 +205,7 @@ Conclusion
 In this blog, we have looked how to make custom daemons and check their status as well. Also, we observed that it is fairly easy to make these daemons and use them. We hope that everyone is now comfortable enough to make daemons on their own.
 
 
-References:
+References:<\b>
 https://dzone.com/articles/run-your-java-application-as-a-service-on-ubuntu
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-managing_services_with_systemd
 
