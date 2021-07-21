@@ -211,7 +211,6 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/sy
 
 
 
-
 # DeamonSample.c
 
 This project is a simple Linux Deamon demonstration with a minimal software code to demonstrate and run the process for a while in seconds until finish it.
